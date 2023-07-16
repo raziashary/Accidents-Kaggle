@@ -4,4 +4,6 @@ and visualizing.
 
 There are 2 other codes more focused on creating maps using folium library, hope this helps for those who are still learning python!
 
-(the data that is used in this training is from: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+(the data that is used in this training is from: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
+
+This repository will be updated from time to time!
